@@ -95,7 +95,7 @@ bootswatch: solar
 # THEME FONTS
 base-font-size: 1.2em
 text-color: "#fdf6e3"
-link-color: "#2aa198"
+link-color: "#fdf6e3"
 base-font-family: "'Arbutus Slab', serif" # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: <link rel="preconnect" href="https://fonts.bunny.net"><link href="https://fonts.bunny.net/css?family=arbutus-slab:400" rel="stylesheet" /> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
