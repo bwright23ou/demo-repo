@@ -90,12 +90,12 @@ navbar-background: bg-primary
 # BOOTSWATCH THEMES
 # You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
 # Enter one of the following options below: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
-bootswatch: solar
+bootswatch: flatly
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#fdf6e3"
-link-color: "#fdf6e3"
+text-color: "#191919"
+link-color: "#17a2b8"
 base-font-family: "'Arbutus Slab', serif" # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: <link rel="preconnect" href="https://fonts.bunny.net"><link href="https://fonts.bunny.net/css?family=arbutus-slab:400" rel="stylesheet" /> # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
